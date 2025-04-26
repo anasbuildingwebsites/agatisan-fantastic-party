@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: solid yellow;
+    padding: 10px;
+    color: blue;
+}
+
+header a {
+    text-decoration: none;
+    color: blueviolet;
+    background-color: aqua;
+    padding: 5px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+main h1 {
+    font-size: 25px;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+footer {
+    background-color: rebeccapurple;
+    padding: 10px;
+}
+
+footer p {
+    background-color: black;
+    padding: 50px;
+}
+
+pav a {
+    text-decoration: none;
+    background-color: red;
+    color: goldenrod;
+    padding: ;
+    margin: 50px;
+    border-radius: 10px;
+}
+
+main {
+    padding: 25px;
+}
+
+.product {
+    background-color: lightblue;
+    padding: 25px;
+    border: 10px solid cadetblue;
+    border-radius: 10px;
+}
+
+.discount {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.delievey {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.wholesale {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.about_us {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.price {
+    background-color: aqua;
+    padding: 10px;
+}
+
+main a {
+    text-decoration: none;
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
